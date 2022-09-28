@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GIBRILLAKANU
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently a Junior Full-Stack Developer
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ...
 
